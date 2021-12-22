@@ -348,7 +348,9 @@ Publish the website in the given URL.
 ### Home Page:
 
 ![output](./images/homepage.jpg)
-
+![output](./images/products.jpg)
+![output](./images/people.jpg)
+![output](./images/contactus.jpg)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
